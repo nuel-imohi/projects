@@ -23,6 +23,54 @@
   color: #61dafb;
 }
 
+.body{
+  max-width: 300px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: #bbb;
+}
+
+button {
+  width: 25%;
+  height: 30px;
+  font-size: 20px;
+}
+
+.btn {
+  width: 50%;
+  height: 30px;
+  font-size: 20px;
+}
+
+.hValue {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.txtBox {
+  width: 97%;
+  height: 30px;
+  font-size: 20px;
+  padding-left: 5px;
+  margin: auto;
+  background-color: #bbb;
+}
+
+.txtBox2 {
+  width: 97%;
+  height: 30px;
+  font-size: 20px;
+  padding-left: 5px;
+  margin: auto;
+  border-bottom: 0px;
+  background-color: #bbb;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
