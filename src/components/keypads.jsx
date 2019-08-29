@@ -40,7 +40,6 @@ class Keypads extends React.Component{
                 <button value="." onClick={() => this.props.onKey(".")}>.</button>
                 <button value="^" onClick={this.onSign}>SQR</button>
                 <button value="=" onClick={() => this.props.onEqualsKey()}>=</button>
-                
             </div>
         )
     }

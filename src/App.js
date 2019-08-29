@@ -4,7 +4,6 @@ import './App.css';
 import Logic from './components/logic'
 
 class App extends React.Component{
-  
 
   render(){
     return(

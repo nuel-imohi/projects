@@ -66,7 +66,6 @@ class Logic extends React.Component{
                 <Keypads onKey={this.onSelect} calKeys={this.state.calKeys}  onSignKey={this.handleSignKey}
                          onEqualsKey={this.handleEqualsKey} />
             </div>
-            
         )
     }
 }
